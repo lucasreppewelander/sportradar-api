@@ -6,7 +6,7 @@
 - [Authenticating](#authenticating-and-default-configuration)
 - [Configuration](#configuration-options)
 - [Basic usage](#basic-usage)
-- [Methods](#methods)
+- [Methods](#available-methods)
 
 ----
 
