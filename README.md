@@ -2,11 +2,11 @@
 > A small wrapper for the Sportradar API.
 
 ## Table of Contents
-- Installation
-- Authenticating
-- Configuration
-- Basic usage
-- Methods
+- [Installation](#installation)
+- [Authenticating](#authenticating-and-default-configuration)
+- [Configuration](#configuration-options)
+- [Basic usage](#basic-usage)
+- [Methods](#methods)
 
 ----
 
