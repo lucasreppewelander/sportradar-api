@@ -1,0 +1,7 @@
+{
+    "presets": ["env", "flow"],
+    "plugins": [
+        "transform-es2015-classes",
+        "transform-object-rest-spread"
+    ]
+}

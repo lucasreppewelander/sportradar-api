@@ -1,0 +1,1 @@
+const Sportradar = require('./index');

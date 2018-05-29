@@ -1,0 +1,464 @@
+{
+    "results": {
+      "xmlns": "http://bsa.betradar.com/schemas/v1/endpoints/csgo/results.xsd",
+      "generated_at": "2016-03-23T15:12:26+00:00",
+      "result": [
+        {
+          "sport_event": {
+            "id": "sr:match:8882170",
+            "scheduled": "2016-03-16T00:00:00+00:00",
+            "tournament_round": {
+              "type": "table",
+              "number": "5"
+            },
+            "season": {
+              "id": "sr:season:12560",
+              "name": "ESL ESEA Pro League Season III - North America"
+            },
+            "tournament": {
+              "id": "sr:tournament:2392",
+              "name": "ESL ESEA Pro League",
+              "sport": {
+                "id": "sr:sport:109",
+                "name": "Counter-Strike"
+              },
+              "category": {
+                "id": "sr:category:1041",
+                "name": "ESL CS:GO"
+              }
+            },
+            "competitors": {
+              "team": [
+                {
+                  "id": "sr:team:243412",
+                  "name": "Optic Gaming",
+                  "abbreviation": "OPT",
+                  "qualifier": "home"
+                },
+                {
+                  "id": "sr:team:243424",
+                  "name": "Winterfox",
+                  "abbreviation": "WIN",
+                  "qualifier": "away"
+                }
+              ]
+            }
+          },
+          "sport_event_status": {
+            "status": "closed",
+            "home_score": "1",
+            "away_score": "0",
+            "winner_id": "sr:team:243412",
+            "period_scores": {
+              "period_score": {
+                "home_score": "16",
+                "away_score": "5",
+                "type": "map",
+                "number": "1",
+                "map_name": "de_inferno"
+              }
+            }
+          }
+        },
+        {
+          "sport_event": {
+            "id": "sr:match:8882172",
+            "scheduled": "2016-03-16T01:20:00+00:00",
+            "tournament_round": {
+              "type": "table",
+              "number": "5"
+            },
+            "season": {
+              "id": "sr:season:12560",
+              "name": "ESL ESEA Pro League Season III - North America"
+            },
+            "tournament": {
+              "id": "sr:tournament:2392",
+              "name": "ESL ESEA Pro League",
+              "sport": {
+                "id": "sr:sport:109",
+                "name": "Counter-Strike"
+              },
+              "category": {
+                "id": "sr:category:1041",
+                "name": "ESL CS:GO"
+              }
+            },
+            "competitors": {
+              "team": [
+                {
+                  "id": "sr:team:243412",
+                  "name": "Optic Gaming",
+                  "abbreviation": "OPT",
+                  "qualifier": "home"
+                },
+                {
+                  "id": "sr:team:243424",
+                  "name": "Winterfox",
+                  "abbreviation": "WIN",
+                  "qualifier": "away"
+                }
+              ]
+            }
+          },
+          "sport_event_status": {
+            "status": "closed",
+            "home_score": "0",
+            "away_score": "1",
+            "winner_id": "sr:team:243424",
+            "period_scores": {
+              "period_score": {
+                "home_score": "6",
+                "away_score": "16",
+                "type": "map",
+                "number": "1",
+                "map_name": "de_mirage"
+              }
+            }
+          }
+        },
+        {
+          "sport_event": {
+            "id": "sr:match:8880762",
+            "scheduled": "2016-03-16T02:10:00+00:00",
+            "tournament_round": {
+              "type": "table",
+              "number": "5"
+            },
+            "season": {
+              "id": "sr:season:12560",
+              "name": "ESL ESEA Pro League Season III - North America"
+            },
+            "tournament": {
+              "id": "sr:tournament:2392",
+              "name": "ESL ESEA Pro League",
+              "sport": {
+                "id": "sr:sport:109",
+                "name": "Counter-Strike"
+              },
+              "category": {
+                "id": "sr:category:1041",
+                "name": "ESL CS:GO"
+              }
+            },
+            "competitors": {
+              "team": [
+                {
+                  "id": "sr:team:243414",
+                  "name": "Complexity",
+                  "abbreviation": "COM",
+                  "qualifier": "home"
+                },
+                {
+                  "id": "sr:team:243420",
+                  "name": "Splyce",
+                  "abbreviation": "SPL",
+                  "qualifier": "away"
+                }
+              ]
+            }
+          },
+          "sport_event_status": {
+            "status": "closed",
+            "home_score": "0",
+            "away_score": "1",
+            "winner_id": "sr:team:243420",
+            "period_scores": {
+              "period_score": {
+                "home_score": "7",
+                "away_score": "16",
+                "type": "map",
+                "number": "1",
+                "map_name": "de_overpass"
+              }
+            }
+          }
+        },
+        {
+          "sport_event": {
+            "id": "sr:match:8880764",
+            "scheduled": "2016-03-16T03:05:00+00:00",
+            "tournament_round": {
+              "type": "table",
+              "number": "5"
+            },
+            "season": {
+              "id": "sr:season:12560",
+              "name": "ESL ESEA Pro League Season III - North America"
+            },
+            "tournament": {
+              "id": "sr:tournament:2392",
+              "name": "ESL ESEA Pro League",
+              "sport": {
+                "id": "sr:sport:109",
+                "name": "Counter-Strike"
+              },
+              "category": {
+                "id": "sr:category:1041",
+                "name": "ESL CS:GO"
+              }
+            },
+            "competitors": {
+              "team": [
+                {
+                  "id": "sr:team:243414",
+                  "name": "Complexity",
+                  "abbreviation": "COM",
+                  "qualifier": "home"
+                },
+                {
+                  "id": "sr:team:243420",
+                  "name": "Splyce",
+                  "abbreviation": "SPL",
+                  "qualifier": "away"
+                }
+              ]
+            }
+          },
+          "sport_event_status": {
+            "status": "closed",
+            "home_score": "1",
+            "away_score": "0",
+            "winner_id": "sr:team:243414",
+            "period_scores": {
+              "period_score": {
+                "home_score": "16",
+                "away_score": "14",
+                "type": "map",
+                "number": "1",
+                "map_name": "de_train"
+              }
+            }
+          }
+        },
+        {
+          "sport_event": {
+            "id": "sr:match:8849224",
+            "scheduled": "2016-03-16T18:05:00+00:00",
+            "tournament_round": {
+              "type": "table",
+              "number": "5"
+            },
+            "season": {
+              "id": "sr:season:12540",
+              "name": "ESL ESEA Pro League Season III - Europe"
+            },
+            "tournament": {
+              "id": "sr:tournament:2392",
+              "name": "ESL ESEA Pro League",
+              "sport": {
+                "id": "sr:sport:109",
+                "name": "Counter-Strike"
+              },
+              "category": {
+                "id": "sr:category:1041",
+                "name": "ESL CS:GO"
+              }
+            },
+            "competitors": {
+              "team": [
+                {
+                  "id": "sr:team:235104",
+                  "name": "G2 Kinguin",
+                  "abbreviation": "G2K",
+                  "qualifier": "home"
+                },
+                {
+                  "id": "sr:team:234924",
+                  "name": "Team Dignitas",
+                  "abbreviation": "DIG",
+                  "qualifier": "away"
+                }
+              ]
+            }
+          },
+          "sport_event_status": {
+            "status": "closed",
+            "home_score": "1",
+            "away_score": "0",
+            "winner_id": "sr:team:235104",
+            "period_scores": {
+              "period_score": {
+                "home_score": "16",
+                "away_score": "6",
+                "type": "map",
+                "number": "1",
+                "map_name": "de_inferno"
+              }
+            }
+          }
+        },
+        {
+          "sport_event": {
+            "id": "sr:match:8849226",
+            "scheduled": "2016-03-16T19:00:00+00:00",
+            "tournament_round": {
+              "type": "table",
+              "number": "5"
+            },
+            "season": {
+              "id": "sr:season:12540",
+              "name": "ESL ESEA Pro League Season III - Europe"
+            },
+            "tournament": {
+              "id": "sr:tournament:2392",
+              "name": "ESL ESEA Pro League",
+              "sport": {
+                "id": "sr:sport:109",
+                "name": "Counter-Strike"
+              },
+              "category": {
+                "id": "sr:category:1041",
+                "name": "ESL CS:GO"
+              }
+            },
+            "competitors": {
+              "team": [
+                {
+                  "id": "sr:team:235104",
+                  "name": "G2 Kinguin",
+                  "abbreviation": "G2K",
+                  "qualifier": "home"
+                },
+                {
+                  "id": "sr:team:234924",
+                  "name": "Team Dignitas",
+                  "abbreviation": "DIG",
+                  "qualifier": "away"
+                }
+              ]
+            }
+          },
+          "sport_event_status": {
+            "status": "closed",
+            "home_score": "0",
+            "away_score": "1",
+            "winner_id": "sr:team:234924",
+            "period_scores": {
+              "period_score": {
+                "home_score": "10",
+                "away_score": "16",
+                "type": "map",
+                "number": "1",
+                "map_name": "de_overpass"
+              }
+            }
+          }
+        },
+        {
+          "sport_event": {
+            "id": "sr:match:8848788",
+            "scheduled": "2016-03-16T20:05:00+00:00",
+            "tournament_round": {
+              "type": "table",
+              "number": "5"
+            },
+            "season": {
+              "id": "sr:season:12540",
+              "name": "ESL ESEA Pro League Season III - Europe"
+            },
+            "tournament": {
+              "id": "sr:tournament:2392",
+              "name": "ESL ESEA Pro League",
+              "sport": {
+                "id": "sr:sport:109",
+                "name": "Counter-Strike"
+              },
+              "category": {
+                "id": "sr:category:1041",
+                "name": "ESL CS:GO"
+              }
+            },
+            "competitors": {
+              "team": [
+                {
+                  "id": "sr:team:220602",
+                  "name": "Fnatic",
+                  "abbreviation": "FNA",
+                  "qualifier": "home"
+                },
+                {
+                  "id": "sr:team:220608",
+                  "name": "Ninjas In Pyjamas",
+                  "abbreviation": "NIP",
+                  "qualifier": "away"
+                }
+              ]
+            }
+          },
+          "sport_event_status": {
+            "status": "closed",
+            "home_score": "0",
+            "away_score": "1",
+            "winner_id": "sr:team:220608",
+            "period_scores": {
+              "period_score": {
+                "home_score": "6",
+                "away_score": "16",
+                "type": "map",
+                "number": "1",
+                "map_name": "de_cache"
+              }
+            }
+          }
+        },
+        {
+          "sport_event": {
+            "id": "sr:match:8848790",
+            "scheduled": "2016-03-16T21:05:00+00:00",
+            "tournament_round": {
+              "type": "table",
+              "number": "5"
+            },
+            "season": {
+              "id": "sr:season:12540",
+              "name": "ESL ESEA Pro League Season III - Europe"
+            },
+            "tournament": {
+              "id": "sr:tournament:2392",
+              "name": "ESL ESEA Pro League",
+              "sport": {
+                "id": "sr:sport:109",
+                "name": "Counter-Strike"
+              },
+              "category": {
+                "id": "sr:category:1041",
+                "name": "ESL CS:GO"
+              }
+            },
+            "competitors": {
+              "team": [
+                {
+                  "id": "sr:team:220602",
+                  "name": "Fnatic",
+                  "abbreviation": "FNA",
+                  "qualifier": "home"
+                },
+                {
+                  "id": "sr:team:220608",
+                  "name": "Ninjas In Pyjamas",
+                  "abbreviation": "NIP",
+                  "qualifier": "away"
+                }
+              ]
+            }
+          },
+          "sport_event_status": {
+            "status": "closed",
+            "home_score": "1",
+            "away_score": "0",
+            "winner_id": "sr:team:220602",
+            "period_scores": {
+              "period_score": {
+                "home_score": "16",
+                "away_score": "10",
+                "type": "map",
+                "number": "1",
+                "map_name": "de_inferno"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
