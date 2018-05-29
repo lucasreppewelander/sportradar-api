@@ -10,12 +10,12 @@
 
 ----
 
-## [Installation](#installation)
+## Installation
 ```
 npm install sportradar-api
 ```
 
-## [Authenticating and default configuration](#auth)
+## Authenticating and default configuration
 ```js
 const Sportradar = require('sportradar-api');
 const sr = new Sportradar('API_KEY');
@@ -29,7 +29,7 @@ const config = { sport: 'dota2', access_level: 'p' };
 const sr = new Sportradar('API_KEY', config);
 ```
 
-### [Configuration options](#config)
+### Configuration options
 | Key | Description | Type | Default | Available options |
 |-----|-------------|------|:---------------:|-------------------|
 | sport | Type of sport | string | `csgo` | `dota2`, `csgo`, `lol` |
@@ -39,7 +39,7 @@ const sr = new Sportradar('API_KEY', config);
 
 ***
 
-## [Basic usage](#usage)
+## Basic usage
 ```js
 const Sportradar = require('sportradar-api');
 const sr = new Sportradar('API_KEY', { sport: 'dota2' });
@@ -54,7 +54,7 @@ sr.match('sr:match:9356887', 'summary').then(result => {
 
 ***
 
-## [Available methods](#methods)
+## Available methods
 
 ### Schedule `(date)`
 ```js
